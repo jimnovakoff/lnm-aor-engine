@@ -1,0 +1,28 @@
+{
+  "aor": "narragansett-east-passage",
+  "label": "Narragansett Bay East Passage sail corridor (SBC Newport)",
+  "generated_utc": "2026-06-12T14:33:32Z",
+  "lnm_source": "https://www.navcen.uscg.gov/sites/default/files/pdf/lnms/LNM01442025.pdf",
+  "aton": [
+    {
+      "llnr": "16215",
+      "name": "Hog Island Channel Lighted Buoy 19",
+      "status": "LT EXT",
+      "kind": "Federal"
+    },
+    {
+      "llnr": "18241",
+      "name": "Prudence Island Monitoring Lighted Buoy",
+      "status": "REDUCED INT",
+      "kind": "Private"
+    }
+  ],
+  "hazards": [
+    {
+      "place": "East Passage",
+      "categories": [
+        "Dredging"
+      ]
+    }
+  ]
+}

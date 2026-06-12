@@ -1,0 +1,18 @@
+{
+  "generated_utc": "2026-06-12T14:33:32Z",
+  "lnm_source": "https://www.navcen.uscg.gov/sites/default/files/pdf/lnms/LNM01442025.pdf",
+  "aors": [
+    {
+      "id": "buzzards-bay",
+      "label": "Buzzards Bay / Vineyard Sound (AuxRadio Fairhaven AOR)",
+      "aton": 9,
+      "hazards": 3
+    },
+    {
+      "id": "narragansett-east-passage",
+      "label": "Narragansett Bay East Passage sail corridor (SBC Newport)",
+      "aton": 2,
+      "hazards": 1
+    }
+  ]
+}

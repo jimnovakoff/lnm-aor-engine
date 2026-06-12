@@ -1,0 +1,83 @@
+{
+  "aor": "buzzards-bay",
+  "label": "Buzzards Bay / Vineyard Sound (AuxRadio Fairhaven AOR)",
+  "generated_utc": "2026-06-12T14:33:32Z",
+  "lnm_source": "https://www.navcen.uscg.gov/sites/default/files/pdf/lnms/LNM01442025.pdf",
+  "aton": [
+    {
+      "llnr": "17046",
+      "name": "West Island Channel Lighted Buoy 1",
+      "status": "OFF STATION",
+      "kind": "Private"
+    },
+    {
+      "llnr": "630",
+      "name": "Buzzards Bay Entrance Light",
+      "status": "SS INOP",
+      "kind": "Federal"
+    },
+    {
+      "llnr": "16302.1",
+      "name": "Cuttyhunk Pond Upper Channel Buoy 1",
+      "status": "DAYMK IMCH",
+      "kind": "Private"
+    },
+    {
+      "llnr": "16302.2",
+      "name": "Cuttyhunk Pond Upper Channel Buoy 2",
+      "status": "DAYMK IMCH",
+      "kind": "Private"
+    },
+    {
+      "llnr": "16302.3",
+      "name": "Cuttyhunk Pond Upper Channel Buoy 3",
+      "status": "DAYMK IMCH",
+      "kind": "Private"
+    },
+    {
+      "llnr": "16302.4",
+      "name": "Cuttyhunk Pond Upper Channel Buoy 4",
+      "status": "DAYMK IMCH",
+      "kind": "Private"
+    },
+    {
+      "llnr": "17297.5",
+      "name": "Weweantic River Buoy 15",
+      "status": "Status Unreported",
+      "kind": "Private"
+    },
+    {
+      "llnr": "n/a",
+      "name": "Wareham Regulatory Buoy A",
+      "status": "OFF STA",
+      "kind": "Private"
+    },
+    {
+      "llnr": "15815",
+      "name": "Woods Hole Passage Buoy 6",
+      "status": "OFF STATION",
+      "kind": "Federal"
+    }
+  ],
+  "hazards": [
+    {
+      "place": "Buzzards Bay Main Channel",
+      "categories": [
+        "Obstruction",
+        "Shoaling"
+      ]
+    },
+    {
+      "place": "Canapitsit Channel",
+      "categories": [
+        "Shoaling"
+      ]
+    },
+    {
+      "place": "Westport Harbor",
+      "categories": [
+        "Shoaling"
+      ]
+    }
+  ]
+}

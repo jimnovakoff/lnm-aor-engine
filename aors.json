@@ -1,0 +1,30 @@
+[
+  {
+    "id": "buzzards-bay",
+    "label": "Buzzards Bay / Vineyard Sound (AuxRadio Fairhaven AOR)",
+    "consumer": "AuxRadio Fairhaven pre-watch briefing",
+    "keywords": [
+      "buzzards bay", "vineyard sound", "cape cod canal", "new bedford", "cuttyhunk",
+      "elizabeth islands", "woods hole", "marion", "mattapoisett", "westport",
+      "padanaram", "dartmouth", "acushnet", "fairhaven", "slocums neck", "quick hole",
+      "quicks hole", "robinsons hole", "penikese", "nashawena", "naushon", "pasque",
+      "sakonnet", "canapitsit", "wareham", "weweantic", "onset", "sippican",
+      "apponagansett", "west island", "nasketucket", "sconticut"
+    ],
+    "excludes": []
+  },
+  {
+    "id": "narragansett-east-passage",
+    "label": "Narragansett Bay East Passage sail corridor (SBC Newport)",
+    "consumer": "SBC / Sally pre-sail briefing -- Safe Harbor Newport Shipyard & New England Boatworks (Melville)",
+    "keywords": [
+      "east passage", "newport", "jamestown", "conanicut", "prudence",
+      "hog island", "melville", "rose island", "gould island", "dutch island",
+      "coasters harbor", "fort adams", "castle hill", "brenton", "beavertail",
+      "potter cove"
+    ],
+    "excludes": [
+      "little narragansett"
+    ]
+  }
+]
