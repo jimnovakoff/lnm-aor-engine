@@ -1,0 +1,53 @@
+# Text is stored LF, so Windows checkouts don't churn line endings. Binaries are named
+# explicitly: git's own binary test reads only the first 8,000 bytes, and a binary it takes
+# for text is rewritten by a Windows checkout. repo-standards' eol-check enforces both.
+* text=auto eol=lf
+
+# images
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.webp binary
+*.ico binary
+*.bmp binary
+*.tif binary
+*.tiff binary
+*.heic binary
+*.psd binary
+*.ai binary
+# documents
+*.pdf binary
+*.doc binary
+*.docx binary
+*.dotx binary
+*.xls binary
+*.xlsx binary
+*.xlsm binary
+*.ppt binary
+*.pptx binary
+*.potx binary
+*.odt binary
+*.ods binary
+# archives and packages
+*.zip binary
+*.gz binary
+*.tgz binary
+*.7z binary
+*.skill binary
+# data, fonts, media
+*.db binary
+*.sqlite binary
+*.sqlite3 binary
+*.woff binary
+*.woff2 binary
+*.ttf binary
+*.otf binary
+*.eot binary
+*.mp3 binary
+*.mp4 binary
+*.m4a binary
+*.mov binary
+*.wav binary
+*.webm binary
+*.pyc binary
