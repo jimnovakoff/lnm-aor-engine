@@ -1,0 +1,6 @@
+{
+  "extra_checks": [
+    {"name": "compile the parser", "run": "python -m py_compile lnm_aor.py"},
+    {"name": "AOR config and published data parse as JSON", "run": "for f in aors.json data/*.json; do python -m json.tool \"$f\" > /dev/null || exit 1; done"}
+  ]
+}
